@@ -1,4 +1,7 @@
 📊 Customer Shopping Behavior Analysis
+
+
+
 🧾 1. Project Overview
 
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across multiple product categories.
@@ -11,6 +14,7 @@ Product preferences
 Subscription behavior
 
 These insights help in making data-driven business decisions.
+
 
 📂 2. Dataset Summary
 Total Rows: 3,900
@@ -52,6 +56,7 @@ Loaded cleaned data into MySQL/PostgreSQL using SQLAlchemy
 
 🗄️ 4. Data Analysis (SQL)
 
+
 Performed business-level analysis using SQL:
 📌 Key Business Questions:
 Revenue by Gender
@@ -69,6 +74,7 @@ Repeat Buyers vs Subscription
 Revenue by Age Group
 
 📊 5. Dashboard (Power BI)
+
 An interactive dashboard was built to visualize:
 Revenue trends
 Customer segmentation
@@ -84,6 +90,7 @@ Top Products
 
 💡 6. Business Recommendations
 
+
 Based on analysis:
 Boost Subscriptions
 → Offer exclusive benefits and discounts
@@ -97,15 +104,18 @@ Targeted Marketing
 → Focus on high-revenue age groups and premium customers
 
 🚀 7. Tech Stack
+
 Python (pandas, data cleaning)
 SQL (MySQL/PostgreSQL) (analysis)
 Power BI (dashboard & visualization)
 
 🔥 8. Project Pipeline
+
 CSV Data → Python (Cleaning & EDA) → SQL (Analysis) → Power BI (Dashboard)
 
 
 🧠 9. Key Learnings
+
 Data cleaning and preprocessing
 Writing advanced SQL queries (CTE, window functions)
 Building end-to-end data pipelines
